@@ -9,3 +9,6 @@ The archetype generates a class `com.example.App` with a simple `"Hello World!"`
 (Option A: web UI — easiest)
 
 - Go to GitHub → <b>New repository</b> → name it e.g. `hello-java-codespace` → choose Public/Private → <b>Create repository</b> (leave it empty).
+## 2 — Add the devcontainer files (directly on GitHub)
+
+Create a folder called `.devcontainer` at the repo root with <b>two files:</b>
