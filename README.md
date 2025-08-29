@@ -1,4 +1,4 @@
-#Hello World Java Program
+# Hello World Java Program
 <br><b>Run the program</b><br>
 The archetype generates a class `com.example.App` with a simple `"Hello World!"` by running this code: <br>
 `java -cp target/hello-java-1.0-SNAPSHOT.jar com.example.App`<br>
