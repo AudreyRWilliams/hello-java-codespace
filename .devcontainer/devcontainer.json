@@ -1,0 +1,14 @@
+{
+  "name": "Java 11 & Maven",
+  "build": { "dockerfile": "Dockerfile" },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-maven"
+  ],
+  "postCreateCommand": "mvn -v",
+  "forwardPorts": [8080],
+  "remoteUser": "vscode"
+}
