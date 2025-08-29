@@ -6,4 +6,4 @@ The archetype generates a class `com.example.App` with a simple `"Hello World!"`
 
 (Option A: web UI — easiest)
 
-Go to GitHub → New repository → name it e.g. hello-java-codespace → choose Public/Private → Create repository (leave it empty).
+- Go to GitHub → <b>New repository</b> → name it e.g. `hello-java-codespace` → choose Public/Private → <b>Create repository</b> (leave it empty).
