@@ -1,4 +1,4 @@
-# Hello World Java Program
+# "Hello World!" Java Program
 The archetype generates a class `com.example.App` with a simple `"Hello World!"` <br>
 <img width="280" height="319" alt="Screen Shot 2025-08-29 at 7 24 53 PM" src="https://github.com/user-attachments/assets/ee137669-61ca-4f70-a398-0c440dc431ad" />
 
