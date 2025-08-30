@@ -36,4 +36,10 @@ Build and run:
 
 <img width="521" height="202" alt="Screen Shot 2025-08-29 at 8 40 54 PM" src="https://github.com/user-attachments/assets/f3a61813-88fd-4cec-b181-52d2745c0b0f" />
 
-(If you prefer to hand-create a single Main class, create src/main/java/.../App.java and run the same java -cp ... command.)
+(If you prefer to hand-create a single `Main` class, create `src/main/java/.../App.java` and run the same `java -cp` ... command.)
+
+## 5 — Commit the project and push to GitHub
+
+<img width="395" height="118" alt="Screen Shot 2025-08-29 at 8 44 36 PM" src="https://github.com/user-attachments/assets/c83016d6-fedb-4e1c-93ea-086753de4adc" />
+
+Now your repo contains both the `.devcontainer` and the Java project; anyone who opens the repo in a Codespace will get the same environment.
