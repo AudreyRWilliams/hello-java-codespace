@@ -12,7 +12,7 @@ The archetype generates a class `com.example.App` with a simple `"Hello World!"`
 ## 2 — Add the devcontainer files (directly on GitHub)
 
 Create a folder called `.devcontainer` at the repo root with <b>two files:</b>
-- .devcontainer/Dockerfile
-<img width="769" height="292" alt="Screen Shot 2025-08-29 at 8 24 12 PM" src="https://github.com/user-attachments/assets/1cab9a31-5c4e-4a4a-9613-123f80a562d2" />
-- .devcontainer/devcontainer.json <br><br>
+- <b>.devcontainer/Dockerfile</b>
+<img width="769" height="292" alt="Screen Shot 2025-08-29 at 8 24 12 PM" src="https://github.com/user-attachments/assets/1cab9a31-5c4e-4a4a-9613-123f80a562d2" /> <br>
+- <b>.devcontainer/devcontainer.json</b> <br><br>
 Why this approach? it’s explicit and reproducible: Codespaces will build the container, install OpenJDK 11 + Maven, and open VS Code in that container. (You can also let VS Code add prebuilt Java dev containers via the UI; both are supported.)
