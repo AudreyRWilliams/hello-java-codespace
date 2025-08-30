@@ -23,3 +23,9 @@ Why this approach? it’s explicit and reproducible: Codespaces will build the c
 
 - On GitHub repo page → click <b>Code → Codespaces → Create codespace on main</b>.
 - Wait for the Codespace to build the container. You’ll see a build log and once finished you’ll have a VS Code web/editor UI with a terminal. (See GitHub Codespaces docs for details.)
+
+## 4 — In the Codespace terminal: generate a Maven project
+
+Once the Codespace finishes building, open the terminal and run:
+
+<img width="539" height="244" alt="Screen Shot 2025-08-29 at 8 35 27 PM" src="https://github.com/user-attachments/assets/fae5ac52-5c56-4d66-a8c5-86196833820b" />
