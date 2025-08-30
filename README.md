@@ -29,3 +29,11 @@ Why this approach? it’s explicit and reproducible: Codespaces will build the c
 Once the Codespace finishes building, open the terminal and run:
 
 <img width="539" height="244" alt="Screen Shot 2025-08-29 at 8 35 27 PM" src="https://github.com/user-attachments/assets/fae5ac52-5c56-4d66-a8c5-86196833820b" />
+
+This creates hello-java/ with src/main/java/com/example/App.java and test skeletons.
+
+Build and run:
+
+<img width="521" height="202" alt="Screen Shot 2025-08-29 at 8 40 54 PM" src="https://github.com/user-attachments/assets/f3a61813-88fd-4cec-b181-52d2745c0b0f" />
+
+(If you prefer to hand-create a single Main class, create src/main/java/.../App.java and run the same java -cp ... command.)
